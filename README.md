@@ -1,7 +1,9 @@
-# curriculum-databases-projects-template
+# Medical DataBase
 
-> This template should be used for database related projects at Microverse.
-> Generate your own repository, update this README and edit all files content while working on projects. You should not be adding any new files unless asked otherwise.
+
+![image](https://user-images.githubusercontent.com/89435894/156642749-57d1f1a8-c35c-4bbe-b26b-09df5269d6e9.png)
+
+
 
 
 ## Getting Started
@@ -15,17 +17,12 @@ This repository includes files with plain SQL that can be used to recreate a dat
 
 ## Authors
 
-👤 **Author1**
+👤 **Will Teixeira**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/iwillteixeira)
+- Twitter: [@twitterhandle](https://twitter.com/iwillteixeira)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/juscelinodev/)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
